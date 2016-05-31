@@ -7,3 +7,4 @@
 ##References
 http://www.r-bloggers.com/how-to-analyze-smartphone-sensor-data-with-r-and-the-breakoutdetection-package/ 
 https://comsysto.com/blog-post/processing-and-analysing-sensor-data-part-2
+https://comsysto.com/blog-post/processing-and-analysing-sensor-data 
