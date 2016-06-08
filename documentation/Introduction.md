@@ -5,6 +5,7 @@
 - [Safari](http://techbus.safaribooksonline.com/video/databases/hadoop/9781491944608)
 - [RQuickstart](https://github.com/rstudio/RQuickstart)
 - [IBM Invests in R Programming Language for Data Science; Joins R Consortium](http://www.linuxfoundation.org/news-media/announcements/2016/06/ibm-invests-r-programming-language-data-science-joins-r-consortium)
+- [R Consortium](https://www.r-consortium.org/)
 
 ```sh
 # apt-get install r-base
